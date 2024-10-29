@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "push_notification_mobile (Flutter)",
+            "program": "lib/main.dart",
+            "cwd": "push_notification_mobile",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
